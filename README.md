@@ -1,5 +1,5 @@
 # react-weather
-![rain](https://user-images.githubusercontent.com/6076073/53922797-b8598c00-406d-11e9-863f-92433f18c0e8.gif)
+![rain](https://i.gyazo.com/b8b696ca664a4b2a528de8d884503d77.png)
 
 # What is this?
 
