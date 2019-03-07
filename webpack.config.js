@@ -7,7 +7,6 @@ module.exports = {
   mode: 'development',
   entry: {
     index: [
-      'intersection-observer',
       'whatwg-fetch',
       '@babel/polyfill',
       'webpack-hot-middleware/client?path=/__webpack_hmr&timeout=20000',
