@@ -1,0 +1,10 @@
+html, body, #app {
+  height: 100vh;
+  min-width: 320px;
+}
+
+weather-app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
